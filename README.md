@@ -13,8 +13,10 @@ CERTIFICATIONS
 SKILL
 * SQL. Microsoft Power Platform including Power-BI(DAX)/ Power-APPS(Power FX). Power Query. Microsoft Office. SAP(PE2/PE5/Analyzr). Python.
 
+Project & Code Showcases - 
 
-![panda](https://github.com/sebsebsebsebtimes4/Testing_Data_Project/assets/65066441/0a76f150-fc9b-4aaa-8fda-8c84c10455cb)
+PowerBI 
+
 
 
 
