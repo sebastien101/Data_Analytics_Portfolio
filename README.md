@@ -15,9 +15,16 @@
 
 ## Project & Code Showcases - 
 
-### PowerBI 
+### PowerBI
+
+
 ### PowerApp
+
+
 ### Python
+
+
+
 ### Machine Learning
 
 
