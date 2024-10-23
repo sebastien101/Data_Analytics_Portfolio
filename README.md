@@ -28,7 +28,7 @@
 
 ### SQL Archived
 
-[title](https://sebsebsebsebtimes4.github.io/SQL_Archived/)
+[SQL Archived Scripts](https://sebsebsebsebtimes4.github.io/SQL_Archived/)
 
 ### Python
 
