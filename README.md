@@ -5,13 +5,17 @@
 * Applied technical skills in as Power BI, Power Apps, SQL, and Python to solve cross-departmental issues.
 * Enjoy working on my own initiative as well as collaborating with colleagues from different business functions on projects.
 
+## SKILL
+* SQL.
+* Python.
+* Microsoft Power Platform including Power-BI(DAX)/ Power-APPS(Power FX). Power Query.
+* Microsoft Office.
+* SAP(PE2/PE5/Analyzr).
+
 ## CERTIFICATIONS
 * Microsoft Certified: Power Platform Fundamentals PL-900
 * Google Data Analytics Certificate
 * Microsoft Certified: Power BI Data Analyst Associate DA-100
-
-## SKILL
-* SQL.  Python.Microsoft Power Platform including Power-BI(DAX)/ Power-APPS(Power FX). Power Query. Microsoft Office. SAP(PE2/PE5/Analyzr).
 
 ## Project & Code Showcases - 
 
