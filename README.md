@@ -1,9 +1,9 @@
 # SEBASTIEN HSU
 
 ## Summary
-* Product Intelligence Analyst with 5 years of experience processing and analyzing large dataset; gained solid knowledge of retail business by coordinating projects in Buying, Merchandising, Allocation & Sourcing departments.
-* Applied technical skills such as Power-BI, Power-Apps, SQL and Python to solve issues across departments.
-* Enjoy working on my own initiative as well as cooperating projects with colleagues from different business functions
+* Product Intelligence Analyst with 5 years of experience in processing and analysing large datasets; developed solid knowledge of retail business by coordinating projects across Buying, Merchandising, Allocation and Sourcing departments.
+* 	Applied technical skills in as Power BI, Power Apps, SQL, and Python to solve cross-departmental issues.
+* 	Enjoy working on my own initiative as well as collaborating with colleagues from different business functions on projects.
 
 ## CERTIFICATIONS
 * Microsoft Certified: Power Platform Fundamentals PL-900
@@ -11,7 +11,7 @@
 * Microsoft Certified: Power BI Data Analyst Associate DA-100
 
 ## SKILL
-* SQL. Microsoft Power Platform including Power-BI(DAX)/ Power-APPS(Power FX). Power Query. Microsoft Office. SAP(PE2/PE5/Analyzr). Python.
+* SQL.  Python.Microsoft Power Platform including Power-BI(DAX)/ Power-APPS(Power FX). Power Query. Microsoft Office. SAP(PE2/PE5/Analyzr).
 
 ## Project & Code Showcases - 
 
