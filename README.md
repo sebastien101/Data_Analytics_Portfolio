@@ -21,7 +21,7 @@
 
 ### PowerBI Reports/ Data Models/ Measures
 [PowerBI Reports <--(for codes/measures)](https://sebsebsebsebtimes4.github.io/PowerBI-Reports/)
-![alt text](volume.png)
+![alt text](bi.png)
 
 
 ### PowerApp
