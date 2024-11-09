@@ -24,7 +24,8 @@
 ![alt text](bi.png)
 
 
-### PowerApp & Product Tagging Creation/Management
+### PowerApps & Product Tagging Creation/Management
+[PowerApps <--(for Apps/codes)](https://sebsebsebsebtimes4.github.io/Power_Apps/)
 
 ![alt text](tagging1.png)
 ![alt text](tagging.png)
