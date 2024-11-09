@@ -31,7 +31,9 @@
 
 ### SQL Archived
 
-[SQL Archived Scripts](https://sebsebsebsebtimes4.github.io/SQL_Archived/)
+[SQL Archived Scripts <--(for SQL codes)](https://sebsebsebsebtimes4.github.io/SQL_Archived/)
+![alt text](sql.png)
+
 
 ### Python
 
