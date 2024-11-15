@@ -38,7 +38,7 @@
 ### Python
 [Python Projects <--(for Python codes)](https://sebsebsebsebtimes4.github.io/Python/)
 
-[Python Project_1 Stock Price API & PythonEverywhere & Email](https://github.com/sebsebsebsebtimes4/Python/blob/main/README.md#project_1)
+[Python Project_1 Stock Price API & Pythonanywhere & E-mail Notification](https://github.com/sebsebsebsebtimes4/Python/blob/main/README.md#project_1)
 
 
 
