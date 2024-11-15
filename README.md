@@ -38,6 +38,9 @@
 ### Python
 [Python Projects <--(for Python codes)](https://sebsebsebsebtimes4.github.io/Python/)
 
+[Python Project_1 Stock Price API & PythonEverywhere & Email](https://sebsebsebsebtimes4.github.io/Python/)
+
+
 
 
 
