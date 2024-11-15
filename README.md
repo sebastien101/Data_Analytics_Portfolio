@@ -37,6 +37,8 @@
 
 ### Python
 -- to be updated shortly
+[Python Projects <--(for Python codes)](https://sebsebsebsebtimes4.github.io/Python/)
+![alt text](sql.png)
 
 
 
