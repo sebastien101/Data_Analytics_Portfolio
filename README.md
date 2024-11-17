@@ -23,6 +23,9 @@
 [PowerBI Reports <--(for codes/measures)](https://sebsebsebsebtimes4.github.io/PowerBI-Reports/)
 ![alt text](bi.png)
 
+### Using Python to connect with PowerBI Semantic Data Model 
+[Python PowerBI Connector](https://sebsebsebsebtimes4.github.io/PowerBI-Reports/)
+
 
 ### PowerApps & Product Tagging Creation/Management
 [PowerApps <--(for Apps/codes)](https://sebsebsebsebtimes4.github.io/Power_Apps/)
