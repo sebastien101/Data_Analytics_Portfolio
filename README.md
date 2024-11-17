@@ -23,6 +23,7 @@
 [PowerBI Reports <--(for codes/measures)](https://sebsebsebsebtimes4.github.io/PowerBI-Reports/)
 ![alt text](bi.png)
 
+
 ### Using Python to connect with PowerBI Semantic Data Model 
 [Python PowerBI Connector](https://sebsebsebsebtimes4.github.io/Python-for-BI-Semantic-Data-Model-Connector/)
 
@@ -32,16 +33,14 @@
 ![alt text](tagging.png)
 
 
-### SQL Archived
-
-[SQL Archived Scripts <--(for SQL codes)](https://sebsebsebsebtimes4.github.io/SQL_Archived/)
-![alt text](sql.png)
-
-
 ### Python
 [Python Projects](https://sebsebsebsebtimes4.github.io/Python/)
-
 [Python Project_1 Stock Price API & Pythonanywhere & E-mail Notification](https://github.com/sebsebsebsebtimes4/Python/blob/main/README.md#project_1)
+
+
+### SQL Archived
+[SQL Archived Scripts <--(for SQL codes)](https://sebsebsebsebtimes4.github.io/SQL_Archived/)
+![alt text](sql.png)
 
 
 
