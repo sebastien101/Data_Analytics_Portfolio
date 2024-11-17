@@ -24,7 +24,7 @@
 ![alt text](bi.png)
 
 ### Using Python to connect with PowerBI Semantic Data Model 
-[Python PowerBI Connector](https://sebsebsebsebtimes4.github.io/Python-for-BI-Semantic-Model-Connector/)
+[Python PowerBI Connector](https://sebsebsebsebtimes4.github.io/Python-for-BI-Semantic-Data-Model-Connector/)
 
 
 ### PowerApps & Product Tagging Creation/Management
