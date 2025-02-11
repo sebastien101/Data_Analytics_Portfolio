@@ -25,22 +25,22 @@
 
 
 ### Using Python to connect with PowerBI Semantic Data Model
-[Python PowerBI Connector](https://sebsebsebsebtimes4.github.io/Python-for-BI-Semantic-Data-Model-Connector/)
+[Python PowerBI Connector](https://sebastien101.github.io/Python-for-BI-Semantic-Data-Model-Connector/)
 
 
 ### PowerApps & Product Tagging Creation/Management
-[PowerApps <--(for Apps/codes)](https://sebsebsebsebtimes4.github.io/Power_Apps/)
+[PowerApps <--(for Apps/codes)](https://sebastien101.github.io/Power_Apps/)
 ![alt text](tagging.png)
 
 
 ### Python
-[Python Projects](https://sebsebsebsebtimes4.github.io/Python/)
+[Python Projects](https://sebastien101.github.io/Python/)
 
-[Python Project_1 Stock Price API & Pythonanywhere & E-mail Notification](https://github.com/sebsebsebsebtimes4/Python/blob/main/README.md#project_1)
+[Python Project_1 Stock Price API & Pythonanywhere & E-mail Notification](https://github.com/sebastien101/Python/blob/main/README.md#project_1)
 
 
 ### SQL Archived
-[SQL Archived Scripts <--(for SQL codes)](https://sebsebsebsebtimes4.github.io/SQL_Archived/)
+[SQL Archived Scripts <--(for SQL codes)](https://sebastien101.github.io/SQL_Archived/)
 ![alt text](sql.png)
 
 
