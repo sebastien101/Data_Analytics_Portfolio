@@ -20,7 +20,7 @@
 ## Project & Code Showcases - 
 
 ### PowerBI Reports/ Data Models/ Measures
-[PowerBI Reports <--(for codes/measures)](https://sebsebsebsebtimes4.github.io/PowerBI-Reports/)
+[PowerBI Reports <--(for codes/measures)](https://sebastien101.github.io/PowerBI-Reports/)
 ![alt text](bi.png)
 
 
