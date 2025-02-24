@@ -19,12 +19,12 @@
 
 ## Project & Code Showcases - 
 
-### PowerBI Reports/ Data Models/ Measures
+### 1. PowerBI Reports/ Data Models/ Measures
 [PowerBI Reports <--(for codes/measures)](https://sebastien101.github.io/PowerBI-Reports/)
 ![alt text](bi.png)
 
 
-### Using Python to connect with PowerBI Semantic Data Model
+### 2. Using Python to connect with PowerBI Semantic Data Model
 [Python PowerBI Connector](https://sebastien101.github.io/Python-for-BI-Semantic-Data-Model-Connector/)
 
 
