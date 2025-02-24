@@ -28,25 +28,17 @@
 [Python PowerBI Connector](https://sebastien101.github.io/Python-for-BI-Semantic-Data-Model-Connector/)
 
 
-### PowerApps & Product Tagging Creation/Management
+### 3. PowerApps & Product Tagging Creation/Management
 [PowerApps <--(for Apps/codes)](https://sebastien101.github.io/Power_Apps/)
 ![alt text](tagging.png)
 
 
-### Python
+### 4. Python
 [Python Projects](https://sebastien101.github.io/Python/)
 
 [Python Project_1 Stock Price API & Pythonanywhere & E-mail Notification](https://github.com/sebastien101/Python/blob/main/README.md#project_1)
 
 
-### SQL Archived
+### 5. SQL Archived
 [SQL Archived Scripts <--(for SQL codes)](https://sebastien101.github.io/SQL_Archived/)
 ![alt text](sql.png)
-
-
-
-
-
-
-
-
