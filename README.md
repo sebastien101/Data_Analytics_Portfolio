@@ -13,6 +13,7 @@
 * SAP(PE2/PE5/Analyzr).
 * Tableau
 * Google Cloud Storage & BigQuery
+* Git&Github
 
 ## CERTIFICATIONS
 * Microsoft Certified: Power Platform Fundamentals PL-900
