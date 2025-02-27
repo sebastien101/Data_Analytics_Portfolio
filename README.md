@@ -11,6 +11,8 @@
 * Microsoft Power Platform including Power-BI(DAX)/ Power-APPS(Power FX). Power Query.
 * Microsoft Office.
 * SAP(PE2/PE5/Analyzr).
+* Tableau
+* Google Cloud Storage & BigQuery
 
 ## CERTIFICATIONS
 * Microsoft Certified: Power Platform Fundamentals PL-900
